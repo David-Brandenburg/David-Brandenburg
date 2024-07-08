@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-brandenburg&label=Profile%20views&color=0e75b6&style=plastic" alt="david-brandenburg" /> </p>
-
-
-
 - 🔭 I’m currently working on [final_project](https://github.com/David-Brandenburg/final_project)
 
 - 🌱 I’m currently learning **React in an E-Commerce Environment, as a Final Project for my DCI Course.**
