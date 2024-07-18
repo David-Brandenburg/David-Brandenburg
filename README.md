@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/212286/pexels-photo-212286.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<img src="https://images.pexels.com/photos/212286/pexels-photo-212286.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="350">
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
