@@ -84,10 +84,6 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Brandenburg)](https://github.com/David-Brandenburg/github-readme-stats)
-
-###
-
 <div align="left">
   <a href="www.linkedin.com/in/david-brandenburg-797921281" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
