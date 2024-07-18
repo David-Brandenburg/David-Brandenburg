@@ -23,9 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=David-Brandenburg&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Brandenburg&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=David-Brandenburg&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=David-Brandenburg&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
