@@ -4,6 +4,8 @@
 
 <p align="left">My name is David and I'm a Full Stack Web Developer from Germany!</p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ###
 
 <h2 align="left">About me</h2>
