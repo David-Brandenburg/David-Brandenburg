@@ -84,6 +84,12 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Brandenburg&show_icons=true&theme=onedark&locale=en&layout=compact" alt="David-Brandenburg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=David-Brandenburg&show_icons=true&theme=dark&locale=en" alt="David-Brandenburg" /></p>
+
+###
+
 <div align="left">
   <a href="www.linkedin.com/in/david-brandenburg-797921281" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
