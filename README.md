@@ -3,18 +3,17 @@
 <h3 align="center">A passionate Fill Stack Web Developer from Germany. </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Brandenburg&label=Profile%20views&color=0e75b6&style=flat" alt="David-Brandenburg" /> </p>
 
-- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
+- 🔭 I’m currently working on [Smarthome 2.5](https://github.com/David-Brandenburg/smarthome-2.5)
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **How to build a Weekly / Daily Planner with React.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- 👨‍💻 Some of my projects are available at [https://david-brandenburg.netlify.app/](https://david-brandenburg.netlify.app/)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 📫 How to reach me **d-brandenburg@hotmail.de**
 
-- 📫 How to reach me **masteraadi246@gmail.com**
-
+- ⚡ Fun fact **Before I became a Full Stack Developer, I was a Nurse!**
 
 ###
 
