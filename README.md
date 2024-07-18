@@ -9,8 +9,12 @@
 <h2 align="left">About me</h2>
 
 ###
-
+<div>
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently improving my Typescript<br>🎯 Goals: To get my First Job!<br>🎲 Fun fact: Before i became a Developer, a was a Nurse!</p>
+<div align="right">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml5bjE2OXlhbTVtdWxjNzl2d2Q5ZXJnMWs3c202YW84cGc4Ymh1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFkpsHWCsNUUo/giphy.webp"  />
+</div>
+</div>
 
 ###
 
@@ -78,9 +82,7 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml5bjE2OXlhbTVtdWxjNzl2d2Q5ZXJnMWs3c202YW84cGc4Ymh1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFkpsHWCsNUUo/giphy.webp"  />
-</div>
+
 
 ###
 
