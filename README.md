@@ -81,13 +81,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Brandenburg&show_icons=true&locale=en&layout=compact" alt="David-Brandenburg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en" alt="jaiswaladi246" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=David-Brandenburg&show_icons=true&locale=en" alt="David-Brandenburg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=David-Brandenburg&" alt="David-Brandenburg" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=David-Brandenburg&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
