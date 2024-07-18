@@ -84,9 +84,7 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Brandenburg&show_icons=true&theme=onedark&locale=en&layout=compact" alt="David-Brandenburg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=David-Brandenburg&show_icons=true&theme=dark&locale=en" alt="David-Brandenburg" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Brandenburg)](https://github.com/David-Brandenburg/github-readme-stats)
 
 ###
 
