@@ -16,6 +16,7 @@
 - ⚡ Fun fact **Before I became a Full Stack Developer, I was a Nurse!**
 
 <h3 align="left">Connect with me:</h3>
+
 <div align="left">
   <a href="www.linkedin.com/in/david-brandenburg-797921281">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
